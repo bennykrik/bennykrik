@@ -33,7 +33,7 @@
 * Mongoose
 * Express
 * Cors
-* JsonWebtoken
+* Jwt
 * Multer
 * MaterialUi
 * Nodemon
