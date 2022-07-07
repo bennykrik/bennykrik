@@ -15,6 +15,7 @@
 * Css
 * Scss
 * JavaScript
+* Git
 * Fetch
 * Axios
 * DOM
@@ -22,8 +23,6 @@
 * ReactRouterDom
 * Redux
 * ReduxToolkit
-* Git
-* ReactIcons
 
 ## Разработка серверной части BACK-END
 
